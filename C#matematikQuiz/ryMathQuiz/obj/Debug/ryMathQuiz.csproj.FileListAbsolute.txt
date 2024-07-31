@@ -1,0 +1,30 @@
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe.config
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.pdb
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csprojAssemblyReference.cache
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.Properties.Resources.resources
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.quizForm.resources
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.GenerateResource.cache
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.CoreCompileInputs.cache
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.exe
+C:\VS\REPOS\STARTED\ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.pdb
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe.config
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.pdb
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.Properties.Resources.resources
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.quizForm.resources
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.exe
+C:\Repos\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe.config
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\bin\Debug\ryMathQuiz.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.Properties.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.quizForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta12\BIP2503 - 12.HAFTA\FINISHED\122_ryMathQuiz\ryMathQuiz\obj\Debug\ryMathQuiz.pdb
